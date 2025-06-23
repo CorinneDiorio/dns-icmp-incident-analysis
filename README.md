@@ -17,11 +17,11 @@ This project simulates a real-world cybersecurity incident investigation involvi
 - Root cause analysis
 - Understanding port-level communication
 
-## 🛠Tools Used
+## Tools Used
 
 - `tcpdump`
 - ICMP & UDP protocol analysis
 
-## 📘 Context
+## Context
 
 This project was completed as part of the Google Cybersecurity Certificate and reflects a realistic scenario involving blocked DNS traffic and error tracing.
