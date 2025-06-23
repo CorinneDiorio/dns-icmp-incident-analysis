@@ -2,14 +2,14 @@
 
 This project simulates a real-world cybersecurity incident investigation involving DNS and ICMP network traffic. It demonstrates how tools like `tcpdump` can help identify network-layer issues such as unreachable ports or DNS misconfigurations.
 
-## 📄 Contents
+## Contents
 
 | File                     | Description                             |
 |--------------------------|-----------------------------------------|
 | `incident_report.md`     | Full incident report based on traffic analysis |
 | `packet_analysis_notes.txt` | Key details captured during investigation |
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 
 - Packet analysis with `tcpdump`
 - Troubleshooting DNS and ICMP errors
@@ -17,7 +17,7 @@ This project simulates a real-world cybersecurity incident investigation involvi
 - Root cause analysis
 - Understanding port-level communication
 
-## 🛠️ Tools Used
+## 🛠Tools Used
 
 - `tcpdump`
 - ICMP & UDP protocol analysis
