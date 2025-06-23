@@ -1,0 +1,7 @@
+DNS server: 203.0.113.2  
+Protocol: UDP  
+Port: 53  
+Error message: ICMP - udp port 53 unreachable  
+Time: 1:24 p.m. + 32.192571 seconds  
+Tool used: tcpdump  
+Symptoms: Website unreachable, destination port unreachable error  
